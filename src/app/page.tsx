@@ -2,7 +2,8 @@ import { Box } from '@mui/material';
 import Navbar from '../components/Navbar';
 import Typography from '@mui/material/Typography';
 import RecentPlogs from '@/components/RecentPlogs';
-import PostsList from '@/app/Posts/page';
+import PostsList from './posts/page';
+
 
 
 export default function Home() {
